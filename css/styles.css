@@ -1,0 +1,19 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 16px;
+}
+
+.ter{
+    text-align: center;
+    color: aqua;
+    font-size: 2rem;
+}
+.Prin .sec{
+    color: blue;
+}
+.Prin{
+    color: red;
+    font-size: 3.8rem;
+}
